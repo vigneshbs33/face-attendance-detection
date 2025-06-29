@@ -119,7 +119,7 @@ Thumbs.db
 # Uncomment the lines below if you want to exclude data files
 # registered_faces.json
 # attendance.json
-# uploads/
+uploads/
 
 # Logs
 *.log
