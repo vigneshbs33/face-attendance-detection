@@ -1,0 +1,1 @@
+Add-Your-pics-here (in folder 'uploads' then run 'python register_uploaded_faces.py' )
