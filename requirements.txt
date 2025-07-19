@@ -1,0 +1,6 @@
+Flask
+face_recognition
+Pillow
+Werkzeug
+Flask-SocketIO
+eventlet 
